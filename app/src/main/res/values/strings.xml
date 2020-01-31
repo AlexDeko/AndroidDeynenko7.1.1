@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidDeynenko7.1.1</string>
+    <string name="morning">Утро</string>
+    <string name="evening">Вечер</string>
+    <string name="afternoon">День</string>
+    <string name="sinhron">Синхронизация</string>
+</resources>
